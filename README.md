@@ -50,7 +50,7 @@ without attaching any electrodes.
 
 <p align="left">
 
-<a href="[https://linkedin.com/in/YOUR_LINK](https://www.linkedin.com/in/sri-saidhakshini-venkatesan-bb4617382/)">
+<a href="https://www.linkedin.com/in/sri-saidhakshini-venkatesan-bb4617382/">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
