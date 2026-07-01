@@ -9,7 +9,7 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=AI+Developer;Full+Stack+Developer;Machine+Learning+Enthusiast;Space+Tech+Researcher;Always+Learning+New+Things!" />
 </p>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=ff69b4"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=FFFFFF"/>
 
 ## 👩‍💻 About Me
 
@@ -20,7 +20,7 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
 - 🔬 Built an **RF-based Contactless Heart Rate & Respiratory Rate Detection System**
 - 🌱 Currently learning **Deep Learning, LLMs and Advanced AI**
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=ff69b4"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=FFFFFF"/>
 
 ## 🚀 Featured Projects
 
@@ -33,7 +33,7 @@ RF antenna-based system capable of estimating:
 
 without attaching any electrodes.
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=ff69b4"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=FFFFFF"/>
 
 ## 🛠 Tech Stack
 
@@ -44,7 +44,7 @@ without attaching any electrodes.
 
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=ff69b4"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=FFFFFF"/>
 
 ## 🌎 Connect with Me
 
@@ -60,7 +60,7 @@ without attaching any electrodes.
 
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=ff69b4"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=FFFFFF"/>
 
 ## 💭 Quote
 
