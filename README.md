@@ -84,11 +84,6 @@ const dhakshini = {
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=srisaidhakshini&amp;theme=github-dark&amp;v=neon-profile-1&amp;mode=light" />
-  <img src="https://www.gitskins.com/api/section/stats?username=srisaidhakshini&amp;theme=github-dark&amp;v=neon-profile-1&amp;mode=dark" width="92%" alt="Live GitHub profile statistics" />
-</picture>
-
-<picture>
   <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=srisaidhakshini&amp;theme=github-dark&amp;v=neon-activity-1&amp;mode=light" />
   <img src="https://www.gitskins.com/api/section/heatmap?username=srisaidhakshini&amp;theme=github-dark&amp;v=neon-activity-1&amp;mode=dark" width="92%" alt="GitHub contribution activity" />
 </picture>
