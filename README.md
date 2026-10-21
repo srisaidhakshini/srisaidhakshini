@@ -1,89 +1,104 @@
-<h1 align="center">
-Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Dhakshini
-</h1>
+<div align="center">
 
-<h3 align="center">
-🚀 AI Developer • Full Stack Developer • Space Technology Enthusiast
-</h3>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=240&color=0:090B1A,45:17123A,100:071B28&text=srisaidhakshini&fontSize=52&fontColor=7DEBFF&animation=fadeIn&fontAlignY=45&desc=AI%20%7C%20FULL%20STACK%20%7C%20SPACE%20TECH&descAlignY=70&descSize=15" width="100%" alt="srisaidhakshini — AI, full stack, and space technology" />
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=AI+Developer;Full+Stack+Developer;Machine+Learning+Enthusiast;Space+Tech+Researcher;Always+Learning+New+Things!" />
-</p>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=FFFFFF"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=22&duration=2600&pause=800&color=57F5E5&center=true&vCenter=true&width=600&lines=AI+Developer;Full+Stack+Developer;Machine+Learning+Enthusiast;Space+Technology+Enthusiast" alt="AI developer, full stack developer, machine learning enthusiast, and space technology enthusiast" />
 
-## 👩‍💻 About Me
+[![GitHub](https://img.shields.io/badge/GITHUB-18181B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/srisaidhakshini)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sri-saidhakshini-venkatesan-bb4617382/)
+[![Email](https://img.shields.io/badge/EMAIL-7B2CBF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srisaidhakshiniv@gmail.com)
 
-- 🎓 Computer Science Student
-- 💙 Dev Lead at **Microsoft Innovations Club**
-- 🧠 Interested in **Artificial Intelligence, Machine Learning, Computer Vision & Space Technology**
-- 🌐 Love building impactful Full Stack applications
-- 🔬 Built an **RF-based Contactless Heart Rate & Respiratory Rate Detection System**
-- 🌱 Currently learning **Deep Learning, LLMs and Advanced AI**
+</div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=FFFFFF"/>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:00E6B8,50:7B61FF,100:5CE1E6" width="88%" alt="" />
+</div>
 
-## 🚀 Featured Projects
+## ⚡ whoami
 
+```js
+const dhakshini = {
+  role: "Computer Science student · Dev Lead, Microsoft Innovations Club",
+  interests: ["Artificial Intelligence", "Computer Vision", "Space Technology"],
+  building: ["AI projects", "Full-stack applications", "Contactless vital-sign sensing"],
+  learning: ["Deep Learning", "LLMs", "Advanced AI"],
+  mantra: "Build useful things, then make them delightful 🚀"
+};
+```
 
-### ❤️ Contactless Vital Signs Detection
+> I like turning curious ideas into useful software, from full-stack applications to experiments at the intersection of RF sensing and health.
 
-RF antenna-based system capable of estimating:
-- ❤️ Heart Rate
-- 🫁 Respiratory Rate
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:00E6B8,50:7B61FF,100:5CE1E6" width="88%" alt="" />
+</div>
 
-without attaching any electrodes.
+## ⚔️ Tech Arsenal
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=FFFFFF"/>
+<div align="center">
 
-## 🛠 Tech Stack
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,ts,react,nextjs,nodejs,express,html,css,tailwind,mongodb,mysql,firebase,supabase,git,github,vscode,figma&perline=7" alt="Python, C, C++, Java, JavaScript, TypeScript, React, Next.js, Node.js, Express, HTML, CSS, Tailwind, MongoDB, MySQL, Firebase, Supabase, Git, GitHub, VS Code, and Figma" />
 
+<br /><br />
 
-<p align="center">
+![AI and ML](https://img.shields.io/badge/🧠_AI_/_ML-00BFA6?style=for-the-badge)
+![Computer Vision](https://img.shields.io/badge/👁️_Computer_Vision-7357FF?style=for-the-badge)
+![Space Technology](https://img.shields.io/badge/🪐_Space_Technology-1877C9?style=for-the-badge)
 
-<img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,ts,react,nextjs,nodejs,express,html,css,tailwind,mongodb,mysql,firebase,supabase,git,github,vscode,figma,antigravity,stitch,cursor"/>
+</div>
 
-</p>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:00E6B8,50:7B61FF,100:5CE1E6" width="88%" alt="" />
+</div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=FFFFFF"/>
+## 🌌 Featured Projects
 
-## 🌎 Connect with Me
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔍 <a href="https://github.com/srisaidhakshini?tab=repositories">Git Auditor</a></h3>
+      <p>A tool for auditing Git repositories.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>✈️ <a href="https://github.com/srisaidhakshini/tripWise">tripWise</a></h3>
+      <p>A Python project for travel planning.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌊 <a href="https://github.com/srisaidhakshini/Wave">Wave</a></h3>
+      <p>A TypeScript project. Explore the repository for its features and implementation.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>❤️ Contactless Vital Signs Detection</h3>
+      <p>An RF antenna-based system that estimates heart rate and respiratory rate without attaching electrodes.</p>
+    </td>
+  </tr>
+</table>
 
-<p align="left">
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:00E6B8,50:7B61FF,100:5CE1E6" width="88%" alt="" />
+</div>
 
-<a href="https://www.linkedin.com/in/sri-saidhakshini-venkatesan-bb4617382/">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
+## 📊 GitHub Stats
 
-<a href="mailto:srisaidhakshiniv@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
+<div align="center">
 
-</p>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=srisaidhakshini&amp;theme=github-dark&amp;v=neon-profile-1&amp;mode=light" />
+  <img src="https://www.gitskins.com/api/section/stats?username=srisaidhakshini&amp;theme=github-dark&amp;v=neon-profile-1&amp;mode=dark" width="92%" alt="Live GitHub profile statistics" />
+</picture>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=FFFFFF"/>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=srisaidhakshini&amp;theme=github-dark&amp;v=neon-activity-1&amp;mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=srisaidhakshini&amp;theme=github-dark&amp;v=neon-activity-1&amp;mode=dark" width="92%" alt="GitHub contribution activity" />
+</picture>
 
-## 💭 Quote
+</div>
 
+<div align="center">
 
-> *"The best way to predict the future is to build it."*
+*“The best way to predict the future is to build it.”*
 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:071B28,50:17123A,100:090B1A&section=footer" width="100%" alt="" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=18&pause=1000&color=FFFF&center=true&width=1000&lines=Thanks+for+visiting!;Happy+Coding!;See+you+shine!+🌌;Keep+Building+Amazing+Things!">
-
-</p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=12,20,24,30"/>
-<!--
-**srisaidhakshini/srisaidhakshini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
